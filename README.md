@@ -26,7 +26,7 @@ These values represent empirical correlations within reduced models, not univers
 
 The ratio between these regimes reflects relative resilience under the same reduced-order dynamics, not an ontological distinction between matter classes.
 
-Reduced-Order Mathematical Core (V12)
+Reduced-Order Mathematical Core (V12) and γ
 
 Across validated test cases, system behavior can be approximated by a cubic instability–saturation normal form:
 
